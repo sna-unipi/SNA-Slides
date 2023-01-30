@@ -1,5 +1,5 @@
 # SNA Lectures Slides
 
-Slides for the SNA classes @UNIPI (starting from 2019/20)
+Slides for the SNA course @UNIPI (starting from 2022/23)
 
-Latest slides version available [here](https://drive.google.com/drive/folders/1Ivhj61Oin_mZw7JCuUWsd8HQtIYqz9tB?usp=sharing).
+Incrementally updated version available [here](https://drive.google.com/drive/folders/1Ivhj61Oin_mZw7JCuUWsd8HQtIYqz9tB?usp=share_link).
